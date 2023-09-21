@@ -1,0 +1,14 @@
+# some.html파일 제외
+some.html
+
+# 전체 jpg파일 제외
+*.jpg파일
+
+# temp 폴더 제외
+temp
+
+# temp 폴더 안 temp.jpg제외
+temp/temp.jpg
+
+# temp만 올리고 싶다
+!temp
